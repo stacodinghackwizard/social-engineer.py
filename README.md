@@ -1,4 +1,4 @@
-(python social-engineer.py) To run the program
+python index.py ----- To run the program
 
 username = request.form.get('session_key')
 password = request.form.get('session_password')
